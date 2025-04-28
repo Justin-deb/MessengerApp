@@ -51,6 +51,12 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+                <dependency>
+                        <groupId>com.formdev</groupId>
+                        <artifactId>flatlaf</artifactId>
+                        <version>3.1</version>  <!-- use the latest on Maven Central -->
+                </dependency>
+
 	</dependencies>
 
 	<build>
